@@ -5,6 +5,6 @@ Simply, It takes the audio data as analog at regular intervals and sends the dat
 
 ## what did i use:
 - Esp8266(wifi)
-- Ardiuno
+- Arduino
 - Sound Sensor
 
